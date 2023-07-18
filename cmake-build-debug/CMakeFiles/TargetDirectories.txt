@@ -1,0 +1,3 @@
+D:/Project/20230709TTS/TTS_Lib/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir
+D:/Project/20230709TTS/TTS_Lib/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Project/20230709TTS/TTS_Lib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
