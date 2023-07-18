@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Core/App" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/App/System.a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Core/App/System.a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Core/App/library.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Core/Bsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Bsp/Frame/TTS/system.a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Core/Bsp/Frame/TTS/system.a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Core/Bsp/Frame/TTS/system.a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/gpio.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/main.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/stm32f1xx_hal_conf.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Inc/stm32f1xx_it.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Src/gpio.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Src/main.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Src/stm32f1xx_hal_msp.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Src/syscalls.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Src/sysmem.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Src/system_stm32f1xx.c" charset="GBK" />
+  </component>
+</project>
