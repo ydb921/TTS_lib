@@ -1,5 +1,7 @@
 Archive member included to satisfy reference by file (symbol)
 
+D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)
+                              CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj (TTS_TaskInit)
 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
                               CMakeFiles/TTS_Lib.elf.dir/Core/Src/syscalls.c.obj (__errno)
 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
@@ -8,16 +10,28 @@ c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../..
                               c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
                               c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-malloc.o)
+                              D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o) (malloc)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-malloc.o) (_malloc_r)
 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
                               c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o) (__malloc_lock)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o) (_sbrk_r)
 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
                               c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
                               c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
                               c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-malloc.o) (_free_r)
 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
-                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o) (errno)
 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
                               c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
 
@@ -35,6 +49,16 @@ Discarded input sections
  .ARM.exidx     0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
  .ARM.attributes
                 0x00000000       0x1b c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+ .data          0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+ .text          0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .data          0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .text.Delay_us
+                0x00000000       0x4c CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .text.CPU_Delay_us
+                0x00000000       0x4c CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
  .text          0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
  .data          0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
  .bss           0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
@@ -86,21 +110,6 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
  .data          0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
  .bss           0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
- .text._sbrk    0x00000000       0x48 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
- .bss.__sbrk_heap_end
-                0x00000000        0x4 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
- .debug_info    0x00000000      0x174 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
- .debug_abbrev  0x00000000       0xe7 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
- .debug_loc     0x00000000       0x64 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
- .debug_aranges
-                0x00000000       0x20 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
- .debug_ranges  0x00000000       0x10 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
- .debug_line    0x00000000      0x1ab CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
- .debug_str     0x00000000      0x24e CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
- .comment       0x00000000       0x4a CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
- .debug_frame   0x00000000       0x28 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
- .ARM.attributes
-                0x00000000       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
  .text          0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
  .data          0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
  .bss           0x00000000        0x0 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
@@ -505,13 +514,10 @@ Discarded input sections
  .comment       0x00000000       0x4a CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .ARM.attributes
                 0x00000000       0x2d CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)
  .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
- .text.__errno  0x00000000        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
- .debug_frame   0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
- .ARM.attributes
-                0x00000000       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
  .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
@@ -522,14 +528,25 @@ Discarded input sections
  .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
- .data._impure_ptr
-                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
  .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-malloc.o)
+ .text.free     0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
  .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
  .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
@@ -541,6 +558,9 @@ Discarded input sections
  .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
  .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
@@ -568,14 +588,19 @@ Discarded input sections
                 0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .bss.__lock___env_recursive_mutex
                 0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
- .bss.__lock___malloc_recursive_mutex
-                0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .bss.__lock___sfp_recursive_mutex
                 0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .bss.__lock___sinit_recursive_mutex
                 0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
  .bss.__lock___tz_mutex
                 0x00000000        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x90 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
  .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
@@ -602,6 +627,8 @@ Linker script and memory map
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+LOAD CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
 LOAD CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
 LOAD CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
 LOAD CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
@@ -623,6 +650,7 @@ LOAD CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_r
 LOAD CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
 LOAD CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
 LOAD CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+LOAD D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a
 START GROUP
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a
@@ -641,276 +669,337 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/
                 0x08000000                g_pfnVectors
                 0x080001e4                . = ALIGN (0x4)
 
-.text           0x080001e4      0xde8
+.text           0x080001e4     0x1aa8
                 0x080001e4                . = ALIGN (0x4)
  *(.text)
  .text          0x080001e4       0x40 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x08000224      0x32c D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)
+                0x08000224                TTS_TaskInit
+                0x08000280                TTS_TaskCreation
+                0x080002c0                TSS_SysTickHandler
+                0x0800031c                TTS_Start
+                0x0800036c                TTS_IdleTaskCreation
+                0x080003dc                TTS_CurrentTask_WritePeriod
+                0x08000414                TTS_Task_WritePeriod
+                0x0800042c                TTS_Task_ReadPeriod
+                0x0800043c                TTS_Task_ReadTimer
+                0x0800044c                TTS_CurrentTask_ReadPeriod
+                0x08000460                TTS_CurrentTask_ReadTimer
+                0x08000474                TTS_SetStatus
+                0x08000488                TTS_TaskGetUp
+                0x080004c4                TTS_TaskGetSleep
+                0x08000500                Delay_ms
+                0x08000514                CPU_Delay
+                0x0800053c                TTS_CPUInterruptCBSRegister
  *(.text*)
+ .text.Debug    0x08000550       0x10 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+                0x08000550                Debug
+ .text.Debug1   0x08000560       0x10 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+                0x08000560                Debug1
+ .text.User_Create_task
+                0x08000570       0x3c CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+                0x08000570                User_Create_task
+ .text.User_Bsp_Init
+                0x080005ac       0x10 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+                0x080005ac                User_Bsp_Init
+ .text.Hal_CoreClockInit
+                0x080005bc       0x38 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .text.hal_getprimask
+                0x080005f4        0xc CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .text.CPU_Critical_Control
+                0x08000600       0x22 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+                0x08000600                CPU_Critical_Control
+ *fill*         0x08000622        0x2 
+ .text.hal_CPUInit
+                0x08000624       0x14 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+                0x08000624                hal_CPUInit
  .text.MX_GPIO_Init
-                0x08000224       0xb0 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
-                0x08000224                MX_GPIO_Init
+                0x08000638       0xb0 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
+                0x08000638                MX_GPIO_Init
  .text.Error_Handler
-                0x080002d4        0x4 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
-                0x080002d4                Error_Handler
+                0x080006e8        0x4 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
+                0x080006e8                Error_Handler
  .text.SystemClock_Config
-                0x080002d8       0x64 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
-                0x080002d8                SystemClock_Config
- .text.main     0x0800033c       0x30 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
-                0x0800033c                main
+                0x080006ec       0x64 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
+                0x080006ec                SystemClock_Config
+ .text.main     0x08000750       0x40 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
+                0x08000750                main
  .text.HAL_MspInit
-                0x0800036c       0x40 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
-                0x0800036c                HAL_MspInit
+                0x08000790       0x40 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x08000790                HAL_MspInit
  .text.NMI_Handler
-                0x080003ac        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080003ac                NMI_Handler
+                0x080007d0        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080007d0                NMI_Handler
  .text.HardFault_Handler
-                0x080003ae        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080003ae                HardFault_Handler
+                0x080007d2        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080007d2                HardFault_Handler
  .text.MemManage_Handler
-                0x080003b0        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080003b0                MemManage_Handler
+                0x080007d4        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080007d4                MemManage_Handler
  .text.BusFault_Handler
-                0x080003b2        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080003b2                BusFault_Handler
+                0x080007d6        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080007d6                BusFault_Handler
  .text.UsageFault_Handler
-                0x080003b4        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080003b4                UsageFault_Handler
+                0x080007d8        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080007d8                UsageFault_Handler
  .text.SVC_Handler
-                0x080003b6        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080003b6                SVC_Handler
+                0x080007da        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080007da                SVC_Handler
  .text.DebugMon_Handler
-                0x080003b8        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080003b8                DebugMon_Handler
+                0x080007dc        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080007dc                DebugMon_Handler
  .text.PendSV_Handler
-                0x080003ba        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080003ba                PendSV_Handler
+                0x080007de        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080007de                PendSV_Handler
  .text.SysTick_Handler
-                0x080003bc        0x8 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080003bc                SysTick_Handler
+                0x080007e0        0xc CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080007e0                SysTick_Handler
+ .text._sbrk    0x080007ec       0x48 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
+                0x080007ec                _sbrk
  .text.SystemInit
-                0x080003c4        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
-                0x080003c4                SystemInit
- *fill*         0x080003c6        0x2 
+                0x08000834        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08000834                SystemInit
+ *fill*         0x08000836        0x2 
  .text.Reset_Handler
-                0x080003c8       0x48 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
-                0x080003c8                Reset_Handler
+                0x08000838       0x48 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+                0x08000838                Reset_Handler
  .text.Default_Handler
-                0x08000410        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
-                0x08000410                RTC_Alarm_IRQHandler
-                0x08000410                EXTI2_IRQHandler
-                0x08000410                TIM8_TRG_COM_IRQHandler
-                0x08000410                TIM8_CC_IRQHandler
-                0x08000410                TIM1_CC_IRQHandler
-                0x08000410                TIM6_IRQHandler
-                0x08000410                PVD_IRQHandler
-                0x08000410                SDIO_IRQHandler
-                0x08000410                EXTI3_IRQHandler
-                0x08000410                EXTI0_IRQHandler
-                0x08000410                I2C2_EV_IRQHandler
-                0x08000410                ADC1_2_IRQHandler
-                0x08000410                SPI1_IRQHandler
-                0x08000410                TAMPER_IRQHandler
-                0x08000410                TIM8_UP_IRQHandler
-                0x08000410                DMA2_Channel2_IRQHandler
-                0x08000410                DMA1_Channel4_IRQHandler
-                0x08000410                USART3_IRQHandler
-                0x08000410                RTC_IRQHandler
-                0x08000410                DMA1_Channel7_IRQHandler
-                0x08000410                CAN1_RX1_IRQHandler
-                0x08000410                UART5_IRQHandler
-                0x08000410                ADC3_IRQHandler
-                0x08000410                TIM4_IRQHandler
-                0x08000410                DMA2_Channel1_IRQHandler
-                0x08000410                I2C1_EV_IRQHandler
-                0x08000410                DMA1_Channel6_IRQHandler
-                0x08000410                UART4_IRQHandler
-                0x08000410                TIM3_IRQHandler
-                0x08000410                RCC_IRQHandler
-                0x08000410                TIM1_TRG_COM_IRQHandler
-                0x08000410                DMA1_Channel1_IRQHandler
-                0x08000410                Default_Handler
-                0x08000410                EXTI15_10_IRQHandler
-                0x08000410                TIM7_IRQHandler
-                0x08000410                TIM5_IRQHandler
-                0x08000410                EXTI9_5_IRQHandler
-                0x08000410                SPI2_IRQHandler
-                0x08000410                DMA1_Channel5_IRQHandler
-                0x08000410                EXTI4_IRQHandler
-                0x08000410                USB_LP_CAN1_RX0_IRQHandler
-                0x08000410                USB_HP_CAN1_TX_IRQHandler
-                0x08000410                DMA1_Channel3_IRQHandler
-                0x08000410                FSMC_IRQHandler
-                0x08000410                TIM1_UP_IRQHandler
-                0x08000410                WWDG_IRQHandler
-                0x08000410                TIM2_IRQHandler
-                0x08000410                TIM1_BRK_IRQHandler
-                0x08000410                EXTI1_IRQHandler
-                0x08000410                DMA2_Channel4_5_IRQHandler
-                0x08000410                USART2_IRQHandler
-                0x08000410                I2C2_ER_IRQHandler
-                0x08000410                DMA1_Channel2_IRQHandler
-                0x08000410                TIM8_BRK_IRQHandler
-                0x08000410                CAN1_SCE_IRQHandler
-                0x08000410                FLASH_IRQHandler
-                0x08000410                USART1_IRQHandler
-                0x08000410                SPI3_IRQHandler
-                0x08000410                I2C1_ER_IRQHandler
-                0x08000410                USBWakeUp_IRQHandler
-                0x08000410                DMA2_Channel3_IRQHandler
- *fill*         0x08000412        0x2 
+                0x08000880        0x2 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+                0x08000880                RTC_Alarm_IRQHandler
+                0x08000880                EXTI2_IRQHandler
+                0x08000880                TIM8_TRG_COM_IRQHandler
+                0x08000880                TIM8_CC_IRQHandler
+                0x08000880                TIM1_CC_IRQHandler
+                0x08000880                TIM6_IRQHandler
+                0x08000880                PVD_IRQHandler
+                0x08000880                SDIO_IRQHandler
+                0x08000880                EXTI3_IRQHandler
+                0x08000880                EXTI0_IRQHandler
+                0x08000880                I2C2_EV_IRQHandler
+                0x08000880                ADC1_2_IRQHandler
+                0x08000880                SPI1_IRQHandler
+                0x08000880                TAMPER_IRQHandler
+                0x08000880                TIM8_UP_IRQHandler
+                0x08000880                DMA2_Channel2_IRQHandler
+                0x08000880                DMA1_Channel4_IRQHandler
+                0x08000880                USART3_IRQHandler
+                0x08000880                RTC_IRQHandler
+                0x08000880                DMA1_Channel7_IRQHandler
+                0x08000880                CAN1_RX1_IRQHandler
+                0x08000880                UART5_IRQHandler
+                0x08000880                ADC3_IRQHandler
+                0x08000880                TIM4_IRQHandler
+                0x08000880                DMA2_Channel1_IRQHandler
+                0x08000880                I2C1_EV_IRQHandler
+                0x08000880                DMA1_Channel6_IRQHandler
+                0x08000880                UART4_IRQHandler
+                0x08000880                TIM3_IRQHandler
+                0x08000880                RCC_IRQHandler
+                0x08000880                TIM1_TRG_COM_IRQHandler
+                0x08000880                DMA1_Channel1_IRQHandler
+                0x08000880                Default_Handler
+                0x08000880                EXTI15_10_IRQHandler
+                0x08000880                TIM7_IRQHandler
+                0x08000880                TIM5_IRQHandler
+                0x08000880                EXTI9_5_IRQHandler
+                0x08000880                SPI2_IRQHandler
+                0x08000880                DMA1_Channel5_IRQHandler
+                0x08000880                EXTI4_IRQHandler
+                0x08000880                USB_LP_CAN1_RX0_IRQHandler
+                0x08000880                USB_HP_CAN1_TX_IRQHandler
+                0x08000880                DMA1_Channel3_IRQHandler
+                0x08000880                FSMC_IRQHandler
+                0x08000880                TIM1_UP_IRQHandler
+                0x08000880                WWDG_IRQHandler
+                0x08000880                TIM2_IRQHandler
+                0x08000880                TIM1_BRK_IRQHandler
+                0x08000880                EXTI1_IRQHandler
+                0x08000880                DMA2_Channel4_5_IRQHandler
+                0x08000880                USART2_IRQHandler
+                0x08000880                I2C2_ER_IRQHandler
+                0x08000880                DMA1_Channel2_IRQHandler
+                0x08000880                TIM8_BRK_IRQHandler
+                0x08000880                CAN1_SCE_IRQHandler
+                0x08000880                FLASH_IRQHandler
+                0x08000880                USART1_IRQHandler
+                0x08000880                SPI3_IRQHandler
+                0x08000880                I2C1_ER_IRQHandler
+                0x08000880                USBWakeUp_IRQHandler
+                0x08000880                DMA2_Channel3_IRQHandler
+ *fill*         0x08000882        0x2 
  .text.HAL_InitTick
-                0x08000414       0x4c CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000414                HAL_InitTick
+                0x08000884       0x4c CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000884                HAL_InitTick
  .text.HAL_Init
-                0x08000460       0x24 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000460                HAL_Init
+                0x080008d0       0x24 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080008d0                HAL_Init
  .text.HAL_IncTick
-                0x08000484       0x18 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000484                HAL_IncTick
+                0x080008f4       0x18 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080008f4                HAL_IncTick
  .text.HAL_GetTick
-                0x0800049c        0xc CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x0800049c                HAL_GetTick
+                0x0800090c        0xc CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0800090c                HAL_GetTick
  .text.HAL_Delay
-                0x080004a8       0x28 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x080004a8                HAL_Delay
+                0x08000918       0x28 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000918                HAL_Delay
  .text.HAL_NVIC_SetPriorityGrouping
-                0x080004d0       0x24 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x080004d0                HAL_NVIC_SetPriorityGrouping
+                0x08000940       0x24 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000940                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x080004f4       0x70 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x080004f4                HAL_NVIC_SetPriority
+                0x08000964       0x70 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000964                HAL_NVIC_SetPriority
  .text.HAL_SYSTICK_Config
-                0x08000564       0x28 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x08000564                HAL_SYSTICK_Config
+                0x080009d4       0x28 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080009d4                HAL_SYSTICK_Config
  .text.HAL_GPIO_Init
-                0x0800058c      0x240 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x0800058c                HAL_GPIO_Init
+                0x080009fc      0x240 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x080009fc                HAL_GPIO_Init
  .text.HAL_GPIO_WritePin
-                0x080007cc        0xc CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x080007cc                HAL_GPIO_WritePin
+                0x08000c3c        0xc CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000c3c                HAL_GPIO_WritePin
  .text.HAL_GPIO_TogglePin
-                0x080007d8       0x12 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x080007d8                HAL_GPIO_TogglePin
- *fill*         0x080007ea        0x2 
+                0x08000c48       0x12 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000c48                HAL_GPIO_TogglePin
+ *fill*         0x08000c5a        0x2 
  .text.RCC_Delay
-                0x080007ec       0x2c CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000c5c       0x2c CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .text.HAL_RCC_OscConfig
-                0x08000818      0x410 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08000818                HAL_RCC_OscConfig
+                0x08000c88      0x410 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000c88                HAL_RCC_OscConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x08000c28       0x54 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08000c28                HAL_RCC_GetSysClockFreq
+                0x08001098       0x54 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001098                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_ClockConfig
-                0x08000c7c      0x16c CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08000c7c                HAL_RCC_ClockConfig
+                0x080010ec      0x16c CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080010ec                HAL_RCC_ClockConfig
+ .text.__errno  0x08001258        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+                0x08001258                __errno
  .text.__libc_init_array
-                0x08000de8       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
-                0x08000de8                __libc_init_array
- .text.memset   0x08000e30       0xa4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
-                0x08000e30                memset
+                0x08001264       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                0x08001264                __libc_init_array
+ .text.malloc   0x080012ac       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-malloc.o)
+                0x080012ac                malloc
+ .text._malloc_r
+                0x080012bc      0x558 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x080012bc                _malloc_r
+ .text.memset   0x08001814       0xa4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                0x08001814                memset
+ .text.__malloc_lock
+                0x080018b8        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+                0x080018b8                __malloc_lock
+ .text.__malloc_unlock
+                0x080018c4        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+                0x080018c4                __malloc_unlock
+ .text._sbrk_r  0x080018d0       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+                0x080018d0                _sbrk_r
  .text.startup.register_fini
-                0x08000ed4       0x14 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
- .text.atexit   0x08000ee8        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
-                0x08000ee8                atexit
+                0x080018f4       0x14 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08001908        0xc c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                0x08001908                atexit
  .text.__libc_fini_array
-                0x08000ef4       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
-                0x08000ef4                __libc_fini_array
+                0x08001914       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                0x08001914                __libc_fini_array
+ .text._malloc_trim_r
+                0x08001940       0xa0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+                0x08001940                _malloc_trim_r
+ .text._free_r  0x080019e0      0x200 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+                0x080019e0                _free_r
  .text.__retarget_lock_acquire_recursive
-                0x08000f20        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
-                0x08000f20                __retarget_lock_acquire_recursive
+                0x08001be0        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08001be0                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x08000f24        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
-                0x08000f24                __retarget_lock_release_recursive
+                0x08001be4        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08001be4                __retarget_lock_release_recursive
  .text.__register_exitproc
-                0x08000f28       0x8c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
-                0x08000f28                __register_exitproc
+                0x08001be8       0x8c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                0x08001be8                __register_exitproc
  *(.glue_7)
- .glue_7        0x08000fb4        0x0 linker stubs
+ .glue_7        0x08001c74        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x08000fb4        0x0 linker stubs
+ .glue_7t       0x08001c74        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x08000fb4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .eh_frame      0x08001c74        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
  *(.init)
- .init          0x08000fb4        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
-                0x08000fb4                _init
- .init          0x08000fb8        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .init          0x08001c74        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x08001c74                _init
+ .init          0x08001c78        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
  *(.fini)
- .fini          0x08000fc0        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
-                0x08000fc0                _fini
- .fini          0x08000fc4        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
-                0x08000fcc                . = ALIGN (0x4)
-                0x08000fcc                _etext = .
+ .fini          0x08001c80        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x08001c80                _fini
+ .fini          0x08001c84        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x08001c8c                . = ALIGN (0x4)
+                0x08001c8c                _etext = .
 
-.vfp11_veneer   0x08000fcc        0x0
- .vfp11_veneer  0x08000fcc        0x0 linker stubs
+.vfp11_veneer   0x08001c8c        0x0
+ .vfp11_veneer  0x08001c8c        0x0 linker stubs
 
-.v4_bx          0x08000fcc        0x0
- .v4_bx         0x08000fcc        0x0 linker stubs
+.v4_bx          0x08001c8c        0x0
+ .v4_bx         0x08001c8c        0x0 linker stubs
 
-.iplt           0x08000fcc        0x0
- .iplt          0x08000fcc        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+.iplt           0x08001c8c        0x0
+ .iplt          0x08001c8c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.rodata         0x08000fcc       0x28
-                0x08000fcc                . = ALIGN (0x4)
+.rodata         0x08001c8c       0x28
+                0x08001c8c                . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata.AHBPrescTable
-                0x08000fcc       0x10 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
-                0x08000fcc                AHBPrescTable
+                0x08001c8c       0x10 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08001c8c                AHBPrescTable
  .rodata.aPLLMULFactorTable.1
-                0x08000fdc       0x10 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001c9c       0x10 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .rodata.aPredivFactorTable.0
-                0x08000fec        0x2 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- *fill*         0x08000fee        0x2 
+                0x08001cac        0x2 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *fill*         0x08001cae        0x2 
  .rodata._global_impure_ptr
-                0x08000ff0        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
-                0x08000ff0                _global_impure_ptr
-                0x08000ff4                . = ALIGN (0x4)
+                0x08001cb0        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x08001cb0                _global_impure_ptr
+                0x08001cb4                . = ALIGN (0x4)
 
-.rel.dyn        0x08000ff4        0x0
- .rel.iplt      0x08000ff4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+.rel.dyn        0x08001cb4        0x0
+ .rel.iplt      0x08001cb4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.ARM.extab      0x08000ff4        0x0
-                0x08000ff4                . = ALIGN (0x4)
+.ARM.extab      0x08001cb4        0x0
+                0x08001cb4                . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x08000ff4                . = ALIGN (0x4)
+                0x08001cb4                . = ALIGN (0x4)
 
-.ARM            0x08000ff4        0x0
-                0x08000ff4                . = ALIGN (0x4)
-                0x08000ff4                __exidx_start = .
+.ARM            0x08001cb4        0x0
+                0x08001cb4                . = ALIGN (0x4)
+                0x08001cb4                __exidx_start = .
  *(.ARM.exidx*)
-                0x08000ff4                __exidx_end = .
-                0x08000ff4                . = ALIGN (0x4)
+                0x08001cb4                __exidx_end = .
+                0x08001cb4                . = ALIGN (0x4)
 
-.preinit_array  0x08000ff4        0x0
-                0x08000ff4                . = ALIGN (0x4)
-                0x08000ff4                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x08001cb4        0x0
+                0x08001cb4                . = ALIGN (0x4)
+                0x08001cb4                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08000ff4                PROVIDE (__preinit_array_end = .)
-                0x08000ff4                . = ALIGN (0x4)
+                0x08001cb4                PROVIDE (__preinit_array_end = .)
+                0x08001cb4                . = ALIGN (0x4)
 
-.init_array     0x08000ff4        0x8
-                0x08000ff4                . = ALIGN (0x4)
-                0x08000ff4                PROVIDE (__init_array_start = .)
+.init_array     0x08001cb4        0x8
+                0x08001cb4                . = ALIGN (0x4)
+                0x08001cb4                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  .init_array.00000
-                0x08000ff4        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x08001cb4        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x08000ff8        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
-                0x08000ffc                PROVIDE (__init_array_end = .)
-                0x08000ffc                . = ALIGN (0x4)
+ .init_array    0x08001cb8        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x08001cbc                PROVIDE (__init_array_end = .)
+                0x08001cbc                . = ALIGN (0x4)
 
-.fini_array     0x08000ffc        0x4
-                0x08000ffc                . = ALIGN (0x4)
-                0x08000ffc                PROVIDE (__fini_array_start = .)
+.fini_array     0x08001cbc        0x4
+                0x08001cbc                . = ALIGN (0x4)
+                0x08001cbc                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08000ffc        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
-                0x08001000                PROVIDE (__fini_array_end = .)
-                0x08001000                . = ALIGN (0x4)
-                0x08001000                _sidata = LOADADDR (.data)
+ .fini_array    0x08001cbc        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x08001cc0                PROVIDE (__fini_array_end = .)
+                0x08001cc0                . = ALIGN (0x4)
+                0x08001cc0                _sidata = LOADADDR (.data)
 
-.data           0x20000000      0x43c load address 0x08001000
+.data           0x20000000      0x84c load address 0x08001cc0
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _sdata = .
  *(.data)
@@ -925,48 +1014,82 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/
  .data.uwTickPrio
                 0x20000008        0x4 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
                 0x20000008                uwTickPrio
- *fill*         0x2000000c        0x4 
+ .data._impure_ptr
+                0x2000000c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x2000000c                _impure_ptr
  .data.impure_data
                 0x20000010      0x428 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data.__malloc_av_
+                0x20000438      0x408 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x20000438                __malloc_av_
+ .data.__malloc_sbrk_base
+                0x20000840        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x20000840                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x20000844        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x20000844                __malloc_trim_threshold
  .data.__atexit_recursive_mutex
-                0x20000438        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
-                0x20000438                __atexit_recursive_mutex
+                0x20000848        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000848                __atexit_recursive_mutex
  *(.RamFunc)
  *(.RamFunc*)
-                0x2000043c                . = ALIGN (0x4)
-                0x2000043c                _edata = .
+                0x2000084c                . = ALIGN (0x4)
+                0x2000084c                _edata = .
 
-.igot.plt       0x2000043c        0x0 load address 0x0800143c
- .igot.plt      0x2000043c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
-                0x2000043c                . = ALIGN (0x4)
+.igot.plt       0x2000084c        0x0 load address 0x0800250c
+ .igot.plt      0x2000084c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x2000084c                . = ALIGN (0x4)
 
-.bss            0x2000043c       0x24 load address 0x0800143c
-                0x2000043c                _sbss = .
-                0x2000043c                __bss_start__ = _sbss
+.bss            0x2000084c       0x78 load address 0x0800250c
+                0x2000084c                _sbss = .
+                0x2000084c                __bss_start__ = _sbss
  *(.bss)
- .bss           0x2000043c       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .bss           0x2000084c       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .bss           0x20000868       0x14 D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)
+                0x20000878                CPUInterrupt
  *(.bss*)
- .bss.uwTick    0x20000458        0x4 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x20000458                uwTick
+ .bss.__sbrk_heap_end
+                0x2000087c        0x4 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
+ .bss.uwTick    0x20000880        0x4 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000880                uwTick
+ .bss.__malloc_current_mallinfo
+                0x20000884       0x28 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x20000884                __malloc_current_mallinfo
+ .bss.__malloc_max_sbrked_mem
+                0x200008ac        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x200008ac                __malloc_max_sbrked_mem
+ .bss.__malloc_max_total_mem
+                0x200008b0        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x200008b0                __malloc_max_total_mem
+ .bss.__malloc_top_pad
+                0x200008b4        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+                0x200008b4                __malloc_top_pad
  .bss.__lock___atexit_recursive_mutex
-                0x2000045c        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
-                0x2000045c                __lock___atexit_recursive_mutex
+                0x200008b8        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x200008b8                __lock___atexit_recursive_mutex
+ *fill*         0x200008b9        0x3 
+ .bss.__lock___malloc_recursive_mutex
+                0x200008bc        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x200008bc                __lock___malloc_recursive_mutex
+ *fill*         0x200008bd        0x3 
+ .bss.errno     0x200008c0        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+                0x200008c0                errno
  *(COMMON)
-                0x20000460                . = ALIGN (0x4)
- *fill*         0x2000045d        0x3 
-                0x20000460                _ebss = .
-                0x20000460                __bss_end__ = _ebss
+                0x200008c4                . = ALIGN (0x4)
+                0x200008c4                _ebss = .
+                0x200008c4                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000460      0x600 load address 0x0800143c
-                0x20000460                . = ALIGN (0x8)
+                0x200008c4      0x604 load address 0x0800250c
+                0x200008c8                . = ALIGN (0x8)
+ *fill*         0x200008c4        0x4 
                 [!provide]                PROVIDE (end = .)
-                0x20000460                PROVIDE (_end = .)
-                0x20000660                . = (. + _Min_Heap_Size)
- *fill*         0x20000460      0x200 
-                0x20000a60                . = (. + _Min_Stack_Size)
- *fill*         0x20000660      0x400 
-                0x20000a60                . = ALIGN (0x8)
+                0x200008c8                PROVIDE (_end = .)
+                0x20000ac8                . = (. + _Min_Heap_Size)
+ *fill*         0x200008c8      0x200 
+                0x20000ec8                . = (. + _Min_Stack_Size)
+ *fill*         0x20000ac8      0x400 
+                0x20000ec8                . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -981,175 +1104,246 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/
  .ARM.attributes
                 0x0000001d       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
  .ARM.attributes
-                0x0000004a       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
+                0x0000004a       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
  .ARM.attributes
-                0x00000077       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
+                0x00000077       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
  .ARM.attributes
-                0x000000a4       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x000000a4       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
  .ARM.attributes
-                0x000000d1       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x000000d1       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
  .ARM.attributes
-                0x000000fe       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x000000fe       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .ARM.attributes
-                0x0000012b       0x21 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+                0x0000012b       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
  .ARM.attributes
-                0x0000014c       0x2d CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000158       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
  .ARM.attributes
-                0x00000179       0x2d CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000185       0x2d CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
  .ARM.attributes
-                0x000001a6       0x2d CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x000001b2       0x21 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
  .ARM.attributes
-                0x000001d3       0x2d CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x000001d3       0x2d CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .ARM.attributes
-                0x00000200       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x00000200       0x2d CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .ARM.attributes
-                0x0000022d       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                0x0000022d       0x2d CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .ARM.attributes
-                0x0000025a       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                0x0000025a       0x2d CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .ARM.attributes
-                0x00000287       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x00000287       0x2d D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)
  .ARM.attributes
-                0x000002b4       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                0x000002b4       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
  .ARM.attributes
-                0x000002e1       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                0x000002e1       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
  .ARM.attributes
-                0x0000030e       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x0000030e       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
  .ARM.attributes
-                0x0000033b       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                0x0000033b       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-malloc.o)
  .ARM.attributes
-                0x00000368       0x1d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x00000368       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000395       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000003c2       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000003ef       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000041c       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000449       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000476       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000004a3       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000004d0       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000004fd       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000052a       0x2d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000557       0x1d c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
 OUTPUT(TTS_Lib.elf elf32-littlearm)
 LOAD linker stubs
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
 
-.debug_info     0x00000000     0x339a
- .debug_info    0x00000000      0x34a CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
- .debug_info    0x0000034a      0x3fd CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
- .debug_info    0x00000747      0x211 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_info    0x00000958      0x130 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_info    0x00000a88      0x248 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_info    0x00000cd0       0x22 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
- .debug_info    0x00000cf2      0x80e CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_info    0x00001500      0xdf0 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_info    0x000022f0      0x66f CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_info    0x0000295f      0xa3b CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+.debug_info     0x00000000     0x4761
+ .debug_info    0x00000000      0x2b4 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+ .debug_info    0x000002b4      0x8f7 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .debug_info    0x00000bab      0x34a CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
+ .debug_info    0x00000ef5      0x451 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00001346      0x211 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x00001557      0x145 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x0000169c      0x174 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x00001810      0x248 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x00001a58       0x22 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+ .debug_info    0x00001a7a      0x80e CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x00002288      0xdf0 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x00003078      0x66f CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x000036e7      0xa3b CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x00004122      0x63f D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)
 
-.debug_abbrev   0x00000000      0xf29
- .debug_abbrev  0x00000000      0x13c CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
- .debug_abbrev  0x0000013c      0x1a5 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
- .debug_abbrev  0x000002e1       0xe5 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_abbrev  0x000003c6       0x7e CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_abbrev  0x00000444      0x13e CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_abbrev  0x00000582       0x12 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
- .debug_abbrev  0x00000594      0x1f4 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_abbrev  0x00000788      0x341 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_abbrev  0x00000ac9      0x1e6 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_abbrev  0x00000caf      0x27a CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+.debug_abbrev   0x00000000     0x15bf
+ .debug_abbrev  0x00000000      0x10d CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+ .debug_abbrev  0x0000010d      0x288 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .debug_abbrev  0x00000395      0x13c CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x000004d1      0x1a5 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x00000676       0xe5 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x0000075b       0x91 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x000007ec       0xe7 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x000008d3      0x13e CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x00000a11       0x12 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+ .debug_abbrev  0x00000a23      0x1f4 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00000c17      0x341 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x00000f58      0x1e6 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x0000113e      0x27a CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x000013b8      0x207 D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)
 
-.debug_aranges  0x00000000      0x378
+.debug_aranges  0x00000000      0x438
  .debug_aranges
-                0x00000000       0x20 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
+                0x00000000       0x38 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
  .debug_aranges
-                0x00000020       0x30 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
+                0x00000038       0x48 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
  .debug_aranges
-                0x00000050       0x20 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x00000080       0x20 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
  .debug_aranges
-                0x00000070       0x60 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x000000a0       0x30 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
  .debug_aranges
-                0x000000d0       0x28 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x000000d0       0x20 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .debug_aranges
-                0x000000f8       0x28 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+                0x000000f0       0x60 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
  .debug_aranges
-                0x00000120       0xe0 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000150       0x20 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
  .debug_aranges
-                0x00000200       0x90 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000170       0x28 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
  .debug_aranges
-                0x00000290       0x58 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x00000198       0x28 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
  .debug_aranges
-                0x000002e8       0x90 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x000001c0       0xe0 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_aranges
+                0x000002a0       0x90 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_aranges
+                0x00000330       0x58 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_aranges
+                0x00000388       0x90 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000418       0x20 D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)
 
-.debug_ranges   0x00000000      0x360
- .debug_ranges  0x00000000       0x10 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
- .debug_ranges  0x00000010       0x20 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
- .debug_ranges  0x00000030       0x10 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_ranges  0x00000040       0x50 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_ranges  0x00000090       0x18 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_ranges  0x000000a8       0x20 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
- .debug_ranges  0x000000c8       0xd0 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_ranges  0x00000198       0xe0 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_ranges  0x00000278       0x48 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_ranges  0x000002c0       0xa0 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+.debug_ranges   0x00000000      0x3d0
+ .debug_ranges  0x00000000       0x28 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+ .debug_ranges  0x00000028       0x38 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .debug_ranges  0x00000060       0x10 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
+ .debug_ranges  0x00000070       0x20 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x00000090       0x10 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_ranges  0x000000a0       0x50 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_ranges  0x000000f0       0x10 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
+ .debug_ranges  0x00000100       0x18 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_ranges  0x00000118       0x20 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+ .debug_ranges  0x00000138       0xd0 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_ranges  0x00000208       0xe0 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_ranges  0x000002e8       0x48 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_ranges  0x00000330       0xa0 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
 
-.debug_line     0x00000000     0x29b9
- .debug_line    0x00000000      0x217 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
- .debug_line    0x00000217      0x37f CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
- .debug_line    0x00000596      0x17a CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_line    0x00000710      0x1b5 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_line    0x000008c5      0x244 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_line    0x00000b09       0xa3 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
- .debug_line    0x00000bac      0x56a CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_line    0x00001116      0x656 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_line    0x0000176c      0x612 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_line    0x00001d7e      0xc3b CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+.debug_line     0x00000000     0x38d6
+ .debug_line    0x00000000      0x298 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+ .debug_line    0x00000298      0x3e4 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .debug_line    0x0000067c      0x217 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x00000893      0x402 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00000c95      0x17a CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x00000e0f      0x1f6 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x00001005      0x1ab CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x000011b0      0x244 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x000013f4       0xa3 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+ .debug_line    0x00001497      0x56a CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x00001a01      0x656 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x00002057      0x612 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00002669      0xc3b CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x000032a4      0x632 D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)
 
-.debug_str      0x00000000     0x14af
- .debug_str     0x00000000      0x268 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
+.debug_str      0x00000000     0x1998
+ .debug_str     0x00000000      0x260 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+                                0x2a6 (size before relaxing)
+ .debug_str     0x00000260      0x60e CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+                                0x7c5 (size before relaxing)
+ .debug_str     0x0000086e       0xea CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
                                 0x2b3 (size before relaxing)
- .debug_str     0x00000268      0x1f6 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
-                                0x3ce (size before relaxing)
- .debug_str     0x0000045e       0x76 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_str     0x00000958      0x1c7 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
+                                0x403 (size before relaxing)
+ .debug_str     0x00000b1f       0x6c CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
                                 0x255 (size before relaxing)
- .debug_str     0x000004d4       0xd3 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                                0x258 (size before relaxing)
- .debug_str     0x000005a7       0xa4 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_str     0x00000b8b       0xe6 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                                0x26b (size before relaxing)
+ .debug_str     0x00000c71       0x99 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
+                                0x24e (size before relaxing)
+ .debug_str     0x00000d0a       0x8a CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
                                 0x28a (size before relaxing)
- .debug_str     0x0000064b       0x52 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
+ .debug_str     0x00000d94       0x52 CMakeFiles/TTS_Lib.elf.dir/Core/Startup/startup_stm32f103zetx.s.obj
                                  0x83 (size before relaxing)
- .debug_str     0x0000069d      0x6ee CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_str     0x00000de6      0x318 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
                                 0x93e (size before relaxing)
- .debug_str     0x00000d8b      0x3e1 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_str     0x000010fe      0x2ef CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
                                 0x9ed (size before relaxing)
- .debug_str     0x0000116c      0x133 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_str     0x000013ed      0x133 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
                                 0x436 (size before relaxing)
- .debug_str     0x0000129f      0x210 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_str     0x00001520      0x210 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
                                 0x661 (size before relaxing)
+ .debug_str     0x00001730      0x268 D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)
+                                0x3f9 (size before relaxing)
 
 .comment        0x00000000       0x49
- .comment       0x00000000       0x49 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
+ .comment       0x00000000       0x49 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
                                  0x4a (size before relaxing)
+ .comment       0x00000049       0x4a CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
  .comment       0x00000049       0x4a CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
  .comment       0x00000049       0x4a CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .comment       0x00000049       0x4a CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
  .comment       0x00000049       0x4a CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
  .comment       0x00000049       0x4a CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .comment       0x00000049       0x4a CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .comment       0x00000049       0x4a CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .comment       0x00000049       0x4a CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .comment       0x00000049       0x4a D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)
 
-.debug_frame    0x00000000      0x8c8
- .debug_frame   0x00000000       0x38 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
- .debug_frame   0x00000038       0x58 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
- .debug_frame   0x00000090       0x28 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_frame   0x000000b8       0xa8 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_frame   0x00000160       0x30 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_frame   0x00000190      0x1cc CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_frame   0x0000035c      0x118 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_frame   0x00000474       0xe4 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_frame   0x00000558      0x184 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_frame   0x000006dc       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
- .debug_frame   0x00000708       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
- .debug_frame   0x00000734       0x5c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
- .debug_frame   0x00000790       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
- .debug_frame   0x000007b0       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
- .debug_frame   0x000007e4       0xb0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
- .debug_frame   0x00000894       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+.debug_frame    0x00000000      0xd78
+ .debug_frame   0x00000000       0x70 CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj
+ .debug_frame   0x00000070       0x98 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .debug_frame   0x00000108       0x38 CMakeFiles/TTS_Lib.elf.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x00000140       0x58 CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x00000198       0x28 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x000001c0       0xa8 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x00000268       0x28 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
+ .debug_frame   0x00000290       0x30 CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x000002c0      0x1cc CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x0000048c      0x118 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x000005a4       0xe4 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x00000688      0x184 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x0000080c      0x198 D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)
+ .debug_frame   0x000009a4       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .debug_frame   0x000009c4       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x000009f0       0x30 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-malloc.o)
+ .debug_frame   0x00000a20       0x4c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mallocr.o)
+ .debug_frame   0x00000a6c       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x00000a98       0x30 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-mlock.o)
+ .debug_frame   0x00000ac8       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000af4       0x5c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000b50       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000b70       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x00000ba4       0x8c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-freer.o)
+ .debug_frame   0x00000c30       0xb0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x00000ce0       0x64 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-reent.o)
+ .debug_frame   0x00000d44       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
 
-.debug_loc      0x00000000     0x1409
- .debug_loc     0x00000000       0x15 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_loc     0x00000015       0xff CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_loc     0x00000114      0x141 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_loc     0x00000255      0x71f CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_loc     0x00000974      0x47d CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_loc     0x00000df1      0x618 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+.debug_loc      0x00000000     0x1b8d
+ .debug_loc     0x00000000      0x2e4 CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj
+ .debug_loc     0x000002e4       0x15 CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_loc     0x000002f9       0x64 CMakeFiles/TTS_Lib.elf.dir/Core/Src/sysmem.c.obj
+ .debug_loc     0x0000035d       0xff CMakeFiles/TTS_Lib.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_loc     0x0000045c      0x141 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_loc     0x0000059d      0x71f CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_loc     0x00000cbc      0x47d CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_loc     0x00001139      0x618 CMakeFiles/TTS_Lib.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_loc     0x00001751      0x43c D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS/system.a(system.o)

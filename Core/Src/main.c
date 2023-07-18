@@ -22,7 +22,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "../App/User.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -86,19 +86,22 @@ int main(void)
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
   /* USER CODE BEGIN 2 */
-
+    hal_CPUInit();
+    User_Bsp_Init();
+    User_Create_task();
+    TTS_Start();
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-      HAL_GPIO_TogglePin(Led_Green_GPIO_Port,Led_Green_Pin);
-      HAL_Delay(100);
-      HAL_GPIO_TogglePin(Led_Red_GPIO_Port,Led_Red_Pin);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
+      HAL_GPIO_TogglePin(Led_Green_GPIO_Port,Led_Green_Pin);
+      HAL_Delay(100);
+      HAL_GPIO_TogglePin(Led_Red_GPIO_Port,Led_Red_Pin);
   }
   /* USER CODE END 3 */
 }
