@@ -25,6 +25,6 @@ void HAL_PinStatus(Pin_Type Num)
 void TTS_PinInit(void)
 {
     TTS_Pin_Create(Led_Green, User_Pin, Led_Blink1);
-//    TTS_Pin_Create(Led_Red, User_Pin, Led_Blink2);
+    TTS_Pin_Create(Led_Red, User_Pin, Led_Blink2);
     TTS_Pin_Create_Init(User_Pin, HAL_PinStatus);
 }

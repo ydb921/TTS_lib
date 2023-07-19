@@ -20,36 +20,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b4381af-5844-4127-90db-5c011163da2e" name="更改" comment="修复system.c文件的问题">
-      <change afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS_Ex/TTS_Ex_Pin.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS_Ex/tts_pin_out.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Bsp/Show_Class/bsp_pin.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Bsp/Show_Class/bsp_pin.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists_template.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists_template.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/App/User.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/App/User.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/App/User.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/App/User.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/CPU.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/CPU.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/system.a" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/TTS_Core.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/system.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/system.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5c58b2594baea577c15d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-07-18T06-44-06-0916.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-TTS_Lib.elf-Debug-c6bcb262b3d2591fcf49.json" beforeDir="false" />
+    <list default="true" id="3b4381af-5844-4127-90db-5c011163da2e" name="更改" comment="增加PIN管理器">
+      <change beforePath="$PROJECT_DIR$/Core/Bsp/Show_Class/bsp_pin.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Bsp/Show_Class/bsp_pin.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.elf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.hex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.map" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +122,7 @@
       <updated>1689647705440</updated>
       <workItem from="1689647729859" duration="7614000" />
       <workItem from="1689750119293" duration="1466000" />
-      <workItem from="1689752319412" duration="846000" />
+      <workItem from="1689752319412" duration="1580000" />
     </task>
     <task id="LOCAL-00001" summary="创建项目">
       <option name="closed" value="true" />
@@ -170,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689662726530</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加PIN管理器">
+      <option name="closed" value="true" />
+      <created>1689762506182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689762506182</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +171,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="创建项目" />
     <MESSAGE value="修复system.c文件的问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="修复system.c文件的问题" />
+    <MESSAGE value="增加PIN管理器" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加PIN管理器" />
   </component>
 </project>
