@@ -11,14 +11,6 @@
 #ifndef __SYSTEM_H
 #define __SYSTEM_H
 
-typedef enum
-{
-    OS_TASK_Proc,
-    OS_TASK_Pin,
-    OS_TASK_SUM,
-} OS_Task_ID_TypeDef;
-
-
 #define Config_CPU_CLOCK_HZ ((uint32_t)SystemCoreClock)//系统时钟72Mhz
 #define Config_TICK_RATE_HZ (1000U)// OS系统节拍中断的频率。即一秒中断的次数，每次中断OS都会进行任务调度
 #define delay_ms(x)  Delay_ms(x)

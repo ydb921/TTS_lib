@@ -6,6 +6,14 @@
 #define USER_H
 
 #include "main.h"
+#include "../Bsp/Show_Class/bsp_pin.h"
+/* ºËÐÄÈÎÎñ¾ä±ú */
+typedef enum
+{
+    OS_TASK_Proc,
+    OS_TASK_Pin,
+    OS_TASK_SUM,
+} OS_TaskID_t;
 
 /**
  * @brief Task Start

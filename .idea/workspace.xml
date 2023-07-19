@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -20,30 +20,31 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b4381af-5844-4127-90db-5c011163da2e" name="更改" comment="创建项目">
-      <change afterPath="$PROJECT_DIR$/Core/App/User.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/App/User.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/CPU.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/CPU.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/system.h" afterDir="false" />
+    <list default="true" id="3b4381af-5844-4127-90db-5c011163da2e" name="更改" comment="修复system.c文件的问题">
+      <change afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS_Ex/TTS_Ex_Pin.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS_Ex/tts_pin_out.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Bsp/Show_Class/bsp_pin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Bsp/Show_Class/bsp_pin.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists_template.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists_template.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/main.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-1f192dacd681ec507dbe.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6dc7f6a3c0c5ecf0ac30.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-07-18T02-41-35-0747.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-TTS_Lib.elf-Debug-4e3520f86524e5fc0978.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/App/User.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/App/User.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/App/User.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/App/User.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/CPU.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/CPU.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/system.a" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/TTS_Core.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/system.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Bsp/Frame/TTS/system.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5c58b2594baea577c15d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-07-18T06-44-06-0916.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-TTS_Lib.elf-Debug-c6bcb262b3d2591fcf49.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/App/User.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/Bsp/Frame/TTS/CPU.c.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/Src/main.c.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TTS_Lib.elf.dir/Core/Src/stm32f1xx_it.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.elf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TTS_Lib.hex" afterDir="false" />
@@ -85,7 +86,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS",
+    "last_opened_file_path": "D:/Project/20230709TTS/TTS_Lib/Core/Bsp/Frame/TTS_Ex",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -97,13 +98,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\20230709TTS\TTS_Lib\Core\Bsp\Frame\TTS_Ex" />
+      <recent name="D:\Project\20230709TTS\TTS_Lib\Core\Bsp\Frame" />
       <recent name="D:\Project\20230709TTS\TTS_Lib\Core\Bsp\Frame\TTS" />
       <recent name="D:\Project\20230709TTS\TTS_Lib\Core\App" />
       <recent name="D:\Project\20230709TTS\TTS_Lib\Core\Inc" />
-      <recent name="D:\Project\20230709TTS\TTS_Lib\Core\Src" />
-      <recent name="D:\Project\20230709TTS\TTS_Lib\Core" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\20230709TTS\TTS_Lib\Core\Bsp" />
       <recent name="D:\Project\20230709TTS\TTS_Lib\Core\App" />
       <recent name="D:\Project\20230709TTS\TTS_Lib\Core\Bsp\Frame" />
     </key>
@@ -140,7 +142,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689647705440</updated>
-      <workItem from="1689647729859" duration="6777000" />
+      <workItem from="1689647729859" duration="7614000" />
+      <workItem from="1689750119293" duration="1466000" />
+      <workItem from="1689752319412" duration="846000" />
     </task>
     <task id="LOCAL-00001" summary="创建项目">
       <option name="closed" value="true" />
@@ -150,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1689648430457</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修复system.c文件的问题">
+      <option name="closed" value="true" />
+      <created>1689662717211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689662717211</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修复system.c文件的问题">
+      <option name="closed" value="true" />
+      <created>1689662726530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689662726530</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +184,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="创建项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建项目" />
+    <MESSAGE value="修复system.c文件的问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="修复system.c文件的问题" />
   </component>
 </project>

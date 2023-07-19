@@ -62,7 +62,8 @@ add_link_options(-mcpu=cortex-m3 -mthumb -mthumb-interwork)
 add_link_options(-T ${LINKER_SCRIPT})
 
 add_executable(${PROJECT_NAME}.elf ${SOURCES} ${LINKER_SCRIPT})
-target_link_libraries(${PROJECT_NAME}.elf ${CMAKE_SOURCE_DIR}/Core/Bsp/Frame/TTS/system.a)
+target_link_libraries(${PROJECT_NAME}.elf ${CMAKE_SOURCE_DIR}/Core/Bsp/Frame/TTS/TTS_Core.a)
+target_link_libraries(${PROJECT_NAME}.elf ${CMAKE_SOURCE_DIR}/Core/Bsp/Frame/TTS_Ex/TTS_Ex_Pin.a)
 set(HEX_FILE ${PROJECT_BINARY_DIR}/${PROJECT_NAME}.hex)
 set(BIN_FILE ${PROJECT_BINARY_DIR}/${PROJECT_NAME}.bin)
 
