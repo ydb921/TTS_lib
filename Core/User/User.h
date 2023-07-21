@@ -7,11 +7,13 @@
 
 #include "main.h"
 #include "../Bsp/Show_Class/bsp_pin.h"
+
 /* ºËÐÄÈÎÎñ¾ä±ú */
 typedef enum
 {
-    OS_TASK_Proc,
     OS_TASK_Pin,
+    OS_TASK_Button,
+    OS_TASK_Proc,
     OS_TASK_SUM,
 } OS_TaskID_t;
 
@@ -25,4 +27,5 @@ void User_Create_task(void);
  *
  */
 void User_Bsp_Init(void);
+
 #endif //USER_H

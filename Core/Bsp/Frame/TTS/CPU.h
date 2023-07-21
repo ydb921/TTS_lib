@@ -18,6 +18,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "../Bsp/Frame/TTS_Ex/tts_pin_out.h"
+#include "../Bsp/Frame/TTS_Ex/tts_button.h"
 /* USER CODE END Includes */
 
 #define  TTS_CPU_TmrRd()  *(__IO uint32_t *)0xE0001004
